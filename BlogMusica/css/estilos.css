@@ -1,0 +1,26 @@
+
+.redes-sociales{
+  width: 40px;
+  height: 40px;
+}
+.cabecera{
+  background: #8FBC8F;
+}
+.espacio-nav{
+  padding-left: 120px !important;
+}
+.img-blog{
+  width: 100%;
+}
+.publicacion{
+  margin-top: 5px;
+}
+.busqueda{
+  width: 20px;
+}
+.seccion-busqueda{
+  margin-top: 5px;
+}
+body{
+  background: #DEB887;
+}
