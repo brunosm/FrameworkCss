@@ -1,0 +1,44 @@
+body{
+  background: url("../img/fondo.jpg") no-repeat;
+  background-size: 100% 100%;
+
+}
+
+.bloque{
+  border: solid 2px black;
+}
+.navegación{
+  height: 100px;
+  width: 100px;
+}
+
+
+.logo{
+  width: 20vw;
+  height: 20vw;
+
+
+}
+nav{
+  background-color: #9fa8da !important;
+}
+.slogan{
+  font-family: 'ZCOOL KuaiLe', cursive !important;
+}
+
+.i-redes{
+  width: 5vw;
+  height: 5vw;
+}
+.redes{
+
+  padding-left: 30px;
+}
+
+
+@media (min-width:900px){
+  .medio{
+margin-top:6%;
+padding-top:5px;
+padding-left: 30px;
+}
